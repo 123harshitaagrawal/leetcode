@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/123harshitaagrawal/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0041-first-missing-positive](https://github.com/123harshitaagrawal/leetcode/tree/master/0041-first-missing-positive) |
 ## Binary Search
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/123harshitaagrawal/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0041-first-missing-positive](https://github.com/123harshitaagrawal/leetcode/tree/master/0041-first-missing-positive) |
 ## Sliding Window
 |  |
 | ------- |
