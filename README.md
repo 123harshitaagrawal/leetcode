@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/123harshitaagrawal/leetcode/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/123harshitaagrawal/leetcode/tree/master/0029-divide-two-integers) |
 ## Recursion
 |  |
 | ------- |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/123harshitaagrawal/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/123harshitaagrawal/leetcode/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
