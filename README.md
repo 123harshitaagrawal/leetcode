@@ -43,10 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/123harshitaagrawal/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/123harshitaagrawal/leetcode/tree/master/0010-regular-expression-matching) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/123harshitaagrawal/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/123harshitaagrawal/leetcode/tree/master/0032-longest-valid-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/123harshitaagrawal/leetcode/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/123harshitaagrawal/leetcode/tree/master/0032-longest-valid-parentheses) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/123harshitaagrawal/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/123harshitaagrawal/leetcode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
