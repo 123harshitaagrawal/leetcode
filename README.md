@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/123harshitaagrawal/leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/123harshitaagrawal/leetcode/tree/master/0042-trapping-rain-water) |
 | [0068-text-justification](https://github.com/123harshitaagrawal/leetcode/tree/master/0068-text-justification) |
+| [0084-largest-rectangle-in-histogram](https://github.com/123harshitaagrawal/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 ## Binary Search
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/123harshitaagrawal/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/123harshitaagrawal/leetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/123harshitaagrawal/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 ## Backtracking
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/123harshitaagrawal/leetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/123harshitaagrawal/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 ## Greedy
 |  |
 | ------- |
