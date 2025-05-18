@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/123harshitaagrawal/leetcode/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/123harshitaagrawal/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/123harshitaagrawal/leetcode/tree/master/0042-trapping-rain-water) |
+| [2061-painting-a-grid-with-three-different-colors](https://github.com/123harshitaagrawal/leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
