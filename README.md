@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/123harshitaagrawal/leetcode/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/123harshitaagrawal/leetcode/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/123harshitaagrawal/leetcode/tree/master/0087-scramble-string) |
+| [0115-distinct-subsequences](https://github.com/123harshitaagrawal/leetcode/tree/master/0115-distinct-subsequences) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/123harshitaagrawal/leetcode/tree/master/0044-wildcard-matching) |
 | [0085-maximal-rectangle](https://github.com/123harshitaagrawal/leetcode/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/123harshitaagrawal/leetcode/tree/master/0087-scramble-string) |
+| [0115-distinct-subsequences](https://github.com/123harshitaagrawal/leetcode/tree/master/0115-distinct-subsequences) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/123harshitaagrawal/leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 ## Heap (Priority Queue)
 |  |
