@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/123harshitaagrawal/leetcode/tree/master/0068-text-justification) |
 | [0084-largest-rectangle-in-histogram](https://github.com/123harshitaagrawal/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/123harshitaagrawal/leetcode/tree/master/0085-maximal-rectangle) |
+| [0312-burst-balloons](https://github.com/123harshitaagrawal/leetcode/tree/master/0312-burst-balloons) |
 ## Binary Search
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/123harshitaagrawal/leetcode/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/123harshitaagrawal/leetcode/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/123harshitaagrawal/leetcode/tree/master/0115-distinct-subsequences) |
+| [0312-burst-balloons](https://github.com/123harshitaagrawal/leetcode/tree/master/0312-burst-balloons) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/123harshitaagrawal/leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 ## Heap (Priority Queue)
 |  |
